@@ -1,0 +1,42 @@
+_repo: Les-gosses-dans-les-ruines--13-Idylle-de-guerre_39774
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Poulbot, Francisque
+    aliases:
+    - Poulbot
+    - Poulbot, Francisque Louis Gustave
+    birthdate: 1879
+    deathdate: 1946
+    gutenberg_agent_id: '40226'
+    url: http://www.gutenberg.org/2009/agents/40226
+covers:
+- cover_type: archival
+  image_path: 39774-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gsell, Paul
+    birthdate: 1870
+    deathdate: 1947
+    gutenberg_agent_id: '40225'
+    url: http://www.gutenberg.org/2009/agents/40225
+description: ''
+gutenberg_bookshelf:
+- FR Théâtre
+- FR Jeunesse
+- FR La Première Guerre Mondiale, 1914-1918
+gutenberg_issued: '2012-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39774'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Drama'
+- !lcsh 'World War, 1914-1918 -- France -- Drama'
+- !lcc 'PQ'
+- !lcsh 'World War, 1914-1918 -- Children -- France -- Drama'
+title: 'Les gosses dans les ruines: Idylle de guerre'
+url: http://www.gutenberg.org/ebooks/39774
