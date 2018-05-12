@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '40225'
     url: http://www.gutenberg.org/2009/agents/40225
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39774#Les-gosses-dans-les-ruines--13-Idylle-de-guerre
 gutenberg_bookshelf:
 - FR Théâtre
 - FR Jeunesse
